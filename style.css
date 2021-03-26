@@ -1,0 +1,14 @@
+h1, p{
+    color:brown;
+    font-family: sans-serif;
+    text-align: center;
+}
+p{
+    font-weight: bold;
+}
+img{
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+}
